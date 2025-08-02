@@ -1,6 +1,6 @@
 {
-    "algo": "progpowz",
-    "url": "stratum+tcp://zano.luckypool.io:8877",
-    "user": "ZxCfraJqu7PVy1SdQXJ5kkSDwgee9NeQMjDV1pqgixHtEs2UbfJBKHtWwZA7aPzj1PUoTakiZjfgxaAvqK6ECExA1irNHWPqr",
+    "algo": "autolykos2",
+    "url": "stratum+tcp://de.ergo.herominers.com:1180",
+    "user": "0xbB73853f7821E4d205f7eA20e256E83909F189ba",
     "pass": "x"
 }
